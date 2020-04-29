@@ -1,4 +1,4 @@
-# Resources-For-CS-Students
+# Resources For CS Students
 A list of resources such as scholarships, fellowships, and mailing list for helping CS students succeed in their career
 
 1. Join BU ACM-W Facebook group https://www.facebook.com/groups/1000710813648553/ 
