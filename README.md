@@ -1,7 +1,8 @@
 # Resources For CS Students
 A list of resources such as scholarships, fellowships, and mailing list for helping CS students succeed in their career
 
-1. Join BU ACM-W Facebook group https://www.facebook.com/groups/1000710813648553/ 
+0. Get the GitHub student developer pack https://education.github.com/pack
+1. Create a JetBrains student account for downloading and using the professional version of PyCharm, WebStorm, IntelliJ, etc https://www.jetbrains.com
 2. Subscribe to systers mailing list https://anitab.org/systers/ 
 3. Subscribe to diversify tech mailing list https://www.diversifytech.co 
 4. Join Ladies Storm Hackathon (LSH) Facebook group https://www.facebook.com/groups/LadiesStormHackathons 
