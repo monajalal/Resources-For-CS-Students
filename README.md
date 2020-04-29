@@ -28,6 +28,6 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 25. If you are a Ph.D. student, it’s a good idea to have both ResearchGate (https://www.researchgate.net)  and Academia.edu (https://www.academia.edu) profiles so you would see who reads your research papers, recommends it, and interacts with it. 
 
 
-If you have any questions please create an issue and I will responde. If you have other resources to share, please add them as an issue and I will add them to the list.
+If you have any questions please create an issue and I will respond. If you have other resources to share, please add them as an issue and I will add them to the list.
 
 
