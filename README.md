@@ -2,7 +2,7 @@
 A list of resources such as scholarships, fellowships, and mailing list for helping CS students succeed in their career
 
 1. Join BU ACM-W Facebook group https://www.facebook.com/groups/1000710813648553/ 
-2. Subsrcibe to systers mailing list https://anitab.org/systers/ 
+2. Subscribe to systers mailing list https://anitab.org/systers/ 
 3. Subscribe to diversify tech mailing list https://www.diversifytech.co 
 4. Join Ladies Storm Hackathon (LSH) Facebook group https://www.facebook.com/groups/LadiesStormHackathons 
 5. Join Hackathon Hackers (HH) Facebook group https://www.facebook.com/groups/hackathonhackers 
