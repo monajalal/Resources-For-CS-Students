@@ -20,7 +20,7 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 17. Join WIML mailing list https://groups.google.com/forum/#!forum/women-in-machine-learning 
 18. Join ML News mailing list  https://groups.google.com/forum/#!forum/ml-news 
 19. Join a tech meetup in town (e.g. to learn some Python, data science, web dev, game dev, etc) https://www.meetup.com 
-20. For interview prep try these https://www.interviewbit.com  , https://www.interviewbit.com , https://coderbyte.com , https://www.hackerrank.com ,  https://www.pramp.com 
+20. For interview prep try these https://www.interviewbit.com  , https://leetcode.com , https://coderbyte.com , https://www.hackerrank.com ,  https://www.pramp.com 
 21. Make sure your LinkedIn profile has a photo and is to some extent filled and up-to-date (e.g. work experience, voluntarily works, education), if you are looking for a job, state it in your headline. I leave mine here for an example: https://www.linkedin.com/in/mona-jalal/ also, use the the opportunities on campus to take part in LinkedIn profile enhancement which usually is followed by a professional photography session
 22. Check a list of upcoming scholarships and awards by CRA here https://cra.org/cra-wp/scholarships-and-awards/other 
 23. You can learn skills via Udacity, Coursera, Udemy, edx and also get a cerificate of completion. Many of these are currently having free classes due to the current pandemic.
