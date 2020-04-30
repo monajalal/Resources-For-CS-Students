@@ -27,6 +27,7 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 23. You can learn skills via Udacity, Coursera, Udemy, edx and also get a cerificate of completion. Many of these are currently having free classes due to the current pandemic.
 24. You can attend conferences as a volunteer without having a paper in them. That usually waives the registration fee and helps you get a good idea about the conference. For example check SIGGRAPH student volunteering: https://s2020.siggraph.org/submissions/student-volunteers-submissions 
 25. If you are a Ph.D. student, it’s a good idea to have both ResearchGate (https://www.researchgate.net)  and Academia.edu (https://www.academia.edu) profiles so you would see who reads your research papers, recommends it, and interacts with it. 
+26. Get access to Unity3D Pro via Student E-mail https://store.unity.com/academic/unity-student 
 
 
 If you have any questions please create an issue and I will respond. If you have other resources to share, please add them as an issue and I will add them to the list.
