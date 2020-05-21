@@ -76,6 +76,6 @@ If you have any questions please create an issue and I will respond. If you have
 
 
 # Credits
-1. I learned about "ML News Mailing List" via @astrosaeed
+1. I learned about "ML News Mailing List" via [@astrosaeed](https://github.com/astrosaeed)
 
 
