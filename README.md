@@ -26,6 +26,19 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 ## Only for Ph.D. Students
 1. Check list of some of fellowships/scholarships for grad students https://www.slideshare.net/MonaJalal/fellowshipsscholarships 
 2. If you are a Ph.D. student, it’s a good idea to have both ResearchGate (https://www.researchgate.net)  and Academia.edu (https://www.academia.edu) profiles so you would see who reads your research papers, recommends it, and interacts with it. 
+3. Microsoft Dissertation Grant https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/
+4. Facebook Ph.D. fellowship https://research.fb.com/fellowship/
+5. Google Ph.D. fellowship https://research.google/outreach/phd-fellowship/
+6. Snap(chat) Ph.D. fellowship https://snapresearchfs.splashthat.com/
+7. Adobe Ph.D. fellowship https://research.adobe.com/fellowship/
+8. Hertz fellowship (only US citizens) https://www.hertzfoundation.org/the-fellowship/apply-for-fellowship/ 
+9. NSF graduate fellowship (only US citizens) https://www.nsfgrfp.org/
+10. Ford foundation fellowship (only US citizens) https://sites.nationalacademies.org/PGA/FordFellowships/index.htm
+11. GEM graduate fellowship (only US citizens or US permanent residents) https://www.gemfellowship.org/students/gem-fellowship-program/
+12. SMART fellowship (only US citizens) https://smartscholarshipprod.servicenowservices.com/smart
+13. NVIDIA Ph.D. fellowship https://www.nvidia.com/en-us/research/graduate-fellowships/
+14. Open Philantropy AI fellowship https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship
+15. IBM Ph.D. fellowship https://www.research.ibm.com/university/awards/fellowships.html
 
 ## Mentorship
 1. 
@@ -43,12 +56,18 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 6. Join WIML mailing list https://groups.google.com/forum/#!forum/women-in-machine-learning 
 7. Check a list of upcoming scholarships and awards by CRA here https://cra.org/cra-wp/scholarships-and-awards/other 
 8. Women TechMaker Scholars program https://www.womentechmakers.com/scholars
+9. Pass it on award https://anitab.org/awards-grants/pass-it-on-awards-program/
+10. Rails girl summer of code https://railsgirlssummerofcode.org/
+11. Adobe Women-in-Tech scholarship https://research.adobe.com/scholarship/
 
 
-
-## Specific to Underrepresented Groups in Computing
+## Specific to Underrepresented, Minority, or Specialized Groups in Computing
 1. Subscribe to diversify tech mailing list https://www.diversifytech.co 
 2. Google Generation scholarship https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/
+3. Outreachy internship https://www.outreachy.org/
+4. Ada Lovelace fellowship https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/
+5. Google LIME scholarship for students with disability https://buildyourfuture.withgoogle.com/scholarships/google-lime-scholarship/
+6. Google scholarship for Veterans students https://buildyourfuture.withgoogle.com/scholarships/google-student-veterans-of-america-scholarship/
 
 ## Expanding Your Professional Network and/or Increasing Your Professionalism
 1. Join Quora and then ask/answer questions https://www.quora.com
@@ -66,6 +85,9 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 
 ## Conference Attendence and/or Conference Grant
 1. You can attend conferences as a volunteer without having a paper in them. That usually waives the registration fee and helps you get a good idea about the conference. For example check SIGGRAPH student volunteering: https://s2020.siggraph.org/submissions/student-volunteers-submissions 
+2. Some of the conferences that provide grants or waive the registration fee through volunteering are: DockerCon, ChefCon, ACM SIGCHI, VLDB, CVPR, Google I/O, ODSC, FAT*
+3. Check Google Travel North America Travel grant from time to time for a list of conferences they give grants to students for https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/
+
 
 
 
