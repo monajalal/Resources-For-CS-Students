@@ -61,11 +61,11 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 1. Join ML News mailing list  https://groups.google.com/forum/#!forum/ml-news 
 
 ## Online Learning 
-2. You can learn skills via Udacity, Coursera, Udemy, edx and also get a cerificate of completion. Many of these are currently having free classes due to the current pandemic.
+1. You can learn skills via Udacity, Coursera, Udemy, edx and also get a cerificate of completion. Many of these are currently having free classes due to the current pandemic.
 
 
 ## Conference Attendence and/or Conference Grant
-3. You can attend conferences as a volunteer without having a paper in them. That usually waives the registration fee and helps you get a good idea about the conference. For example check SIGGRAPH student volunteering: https://s2020.siggraph.org/submissions/student-volunteers-submissions 
+1. You can attend conferences as a volunteer without having a paper in them. That usually waives the registration fee and helps you get a good idea about the conference. For example check SIGGRAPH student volunteering: https://s2020.siggraph.org/submissions/student-volunteers-submissions 
 
 
 
