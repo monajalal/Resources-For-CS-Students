@@ -15,6 +15,8 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 3. Google Summer of Code (GSoC) https://summerofcode.withgoogle.com 
 4. Google Summer of Docs (GSoD) https://developers.google.com/season-of-docs
 5. For interview prep try these https://www.interviewbit.com  , https://leetcode.com , https://coderbyte.com , https://www.hackerrank.com ,  https://www.pramp.com 
+6. In case you might need it, check ZipRecruiter, Indeed, and AngelList
+7. Definitely worth spending sometimes checking GlassDoor and Quora to see where the company stands wrt culture, interview routine, interview questions, and compensations
 
 ## Only for Undergraduate Students
 1. Do research via CRA DREU as an undergrad https://cra.org/cra-wp/dreu 
@@ -87,6 +89,8 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 
 ## Online Learning 
 1. You can learn skills via Udacity, Coursera, Udemy, edx and also get a cerificate of completion. Many of these are currently having free classes due to the current pandemic.
+2. TeamTreeHouse has great tutorials for Python 3, Fronted Web Dev (HTML5, CSS3, jQuery), and Java
+3. freecodecamp.com has a great interactive way of teaching full-stack web dev and will give you free certificate upon completion (it also has a great community of people to help you)
 
 
 ## Conference Attendence and/or Conference Grant/ Hackathons
@@ -96,8 +100,12 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 4. You can attend lots of hackathons, win prizes or simply learn some new skills via https://mlh.io/seasons/na-2020/events
 
 
-
-
+## Organizational Skills 
+1. Microsoft TODO has been a gamechanger for me. I initially started using Todoist but after I switched over to Microsoft TODO in fall 2019, tasks are much more of a breeze for me. I use it for all aspects of my life including buying a grocery item, paying my bills, scholarships I am planning to apply, or topics I should go over for the upcoming paper I am writing.
+2. Trello works wonder for many, not necessarily for me anymore. However, have a peek at it for project management.
+3. Good Note 5 app for iPad Pro is definitely really handy if you are reviewing a paper, or if you have a course which has heavy math or notetaking involved. I switched to having an iPad pro vs having a normal iPad in spring 2020 and I could definitely see the effect. It is also very convenient to take notes using the iPad Pro when you go to the conferences. The new version also allows you to engrave your full name on the pen at no further cost.
+4. I have switched to EverNote Pro and I am pretty much happy with it. Often I have to have my notes organzied in few subcategories and this is a neat way of doing so. https://evernote.com
+5. I personally prefer using unlimited Google Drive by university email over unlimited dropbox or unlimited box that I have access to. It's much handier for sharing work with your team and having everything in one location.
 
 
 
