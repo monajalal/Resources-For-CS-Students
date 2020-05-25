@@ -27,7 +27,7 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 
 ## Only for Ph.D. Students
 1. Check list of some of fellowships/scholarships for grad students https://www.slideshare.net/MonaJalal/fellowshipsscholarships 
-2. If you are a Ph.D. student, it’s a good idea to have both ResearchGate (https://www.researchgate.net)  and Academia.edu (https://www.academia.edu) profiles so you would see who reads your research papers, recommends it, and interacts with it. At the same time, start reveiwing journal and conference papers and earn recognition to the work by https://publons.com/about/home/
+2. If you are a Ph.D. student, it’s a good idea to have both ResearchGate (https://www.researchgate.net)  and Academia.edu (https://www.academia.edu) profiles so you would see who reads your research papers, recommends it, and interacts with it. At the same time, start reveiwing journal and conference papers and earn recognition to the work by https://publons.com/about/home/ you can also create and ORCID id that links to Publons. Additionally, if you review papers, you can forward the "Thank You" email to Publons to showcase your reviews.
 3. Microsoft Dissertation Grant https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/
 4. Facebook Ph.D. fellowship https://research.fb.com/fellowship/
 5. Google Ph.D. fellowship https://research.google/outreach/phd-fellowship/
@@ -115,5 +115,6 @@ If you have any questions please create an issue and I will respond. If you have
 # Credits
 1. I learned about "ML News Mailing List" via [@astrosaeed](https://github.com/astrosaeed)
 2. [Ilke Demir](https://scholar.google.com/citations?hl=en&user=6837MdMAAAAJ&view_op=list_works&sortby=pubdate) suggested me to add WiCV, CRA-W, ACM-W, IEEE WIE, Wogrammer, and Vision Science mailing list 
+3. [@iceLearn](https://github.com/iceLearn)added Publons
 
 
