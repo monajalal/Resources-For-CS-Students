@@ -59,6 +59,11 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 9. Pass it on award https://anitab.org/awards-grants/pass-it-on-awards-program/
 10. Rails girl summer of code https://railsgirlssummerofcode.org/
 11. Adobe Women-in-Tech scholarship https://research.adobe.com/scholarship/
+12. Women in Computer Vision https://sites.google.com/view/wicv/
+13. ACM-W https://women.acm.org/
+14. CRA-W https://cra.org/cra-wp/
+15. IEEE Women in Engineering https://wie.ieee.org
+16. Wogrammer https://wogrammer.org
 
 
 ## Specific to Underrepresented, Minority, or Specialized Groups in Computing
@@ -71,22 +76,24 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 
 ## Expanding Your Professional Network and/or Increasing Your Professionalism
 1. Join Quora and then ask/answer questions https://www.quora.com
-2. Create a Stackoverflow/StackExchange account and ask/answer question and get the credit for it https://www.quora.com
+2. Create a Stackoverflow/StackExchange account and ask/answer question and get the credit for it https://stackoverflow.com and https://stackexchange.com
 3. Join Twitter and post about research/CS/academic stuff that intrigues you https://twitter.com/home
 4. Join a tech meetup in town (e.g. to learn some Python, data science, web dev, game dev, etc) https://www.meetup.com 
 5. Make sure your LinkedIn profile has a photo and is to some extent filled and up-to-date (e.g. work experience, voluntarily works, education), if you are looking for a job, state it in your headline. I leave mine here for an example: https://www.linkedin.com/in/mona-jalal/ also, use the the opportunities on campus to take part in LinkedIn profile enhancement which usually is followed by a professional photography session
 
 ## Suggested Mailing Lists
 1. Join ML News mailing list  https://groups.google.com/forum/#!forum/ml-news 
+2. Vision Science mailing list http://visionscience.com/mailman/listinfo/visionlist_visionscience.com
 
 ## Online Learning 
 1. You can learn skills via Udacity, Coursera, Udemy, edx and also get a cerificate of completion. Many of these are currently having free classes due to the current pandemic.
 
 
-## Conference Attendence and/or Conference Grant
+## Conference Attendence and/or Conference Grant/ Hackathons
 1. You can attend conferences as a volunteer without having a paper in them. That usually waives the registration fee and helps you get a good idea about the conference. For example check SIGGRAPH student volunteering: https://s2020.siggraph.org/submissions/student-volunteers-submissions 
 2. Some of the conferences that provide grants or waive the registration fee through volunteering are: DockerCon, ChefCon, ACM SIGCHI, VLDB, CVPR, Google I/O, ODSC, FAT*
 3. Check Google Travel North America Travel grant from time to time for a list of conferences they give grants to students for https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/
+4. You can attend lots of hackathons, win prizes or simply learn some new skills via https://mlh.io/seasons/na-2020/events
 
 
 
@@ -99,5 +106,6 @@ If you have any questions please create an issue and I will respond. If you have
 
 # Credits
 1. I learned about "ML News Mailing List" via [@astrosaeed](https://github.com/astrosaeed)
+2. [Ilke Demir](https://scholar.google.com/citations?hl=en&user=6837MdMAAAAJ&view_op=list_works&sortby=pubdate) suggested me to add WiCV, CRA-W, ACM-W, IEEE WIE, Wogrammer, and Vision Science mailing list 
 
 
