@@ -115,6 +115,6 @@ If you have any questions please create an issue and I will respond. If you have
 # Credits
 1. I learned about "ML News Mailing List" via [@astrosaeed](https://github.com/astrosaeed)
 2. [Ilke Demir](https://scholar.google.com/citations?hl=en&user=6837MdMAAAAJ&view_op=list_works&sortby=pubdate) suggested me to add WiCV, CRA-W, ACM-W, IEEE WIE, Wogrammer, and Vision Science mailing list 
-3. [@iceLearn](https://github.com/iceLearn)added Publons
+3. [@iceLearn](https://github.com/iceLearn) added Publons
 
 
