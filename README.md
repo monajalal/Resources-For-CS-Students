@@ -27,7 +27,7 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 
 ## Only for Ph.D. Students
 1. Check list of some of fellowships/scholarships for grad students https://www.slideshare.net/MonaJalal/fellowshipsscholarships 
-2. If you are a Ph.D. student, it’s a good idea to have both ResearchGate (https://www.researchgate.net)  and Academia.edu (https://www.academia.edu) profiles so you would see who reads your research papers, recommends it, and interacts with it. 
+2. If you are a Ph.D. student, it’s a good idea to have both ResearchGate (https://www.researchgate.net)  and Academia.edu (https://www.academia.edu) profiles so you would see who reads your research papers, recommends it, and interacts with it. At the same time, start reveiwing journal and conference papers and earn recognition to the work by https://publons.com/about/home/
 3. Microsoft Dissertation Grant https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/
 4. Facebook Ph.D. fellowship https://research.fb.com/fellowship/
 5. Google Ph.D. fellowship https://research.google/outreach/phd-fellowship/
