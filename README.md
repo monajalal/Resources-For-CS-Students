@@ -1,4 +1,4 @@
-# Resources For CS Students
+# Resources For CS Students or Students Interested in Computing/Data
 A list of resources such as scholarships, fellowships, and mailing list for helping CS students succeed in their academic and/or industrial career(s).
 
 ## Software/Tools/Student-specific Licences
