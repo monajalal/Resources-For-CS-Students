@@ -86,6 +86,7 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 ## Suggested Mailing Lists
 1. Join ML News mailing list  https://groups.google.com/forum/#!forum/ml-news 
 2. Vision Science mailing list http://visionscience.com/mailman/listinfo/visionlist_visionscience.com
+3. Computer vision and machine learning mailing list https://lists.auth.gr/sympa/info/cvml
 
 ## Online Learning 
 1. You can learn skills via Udacity, Coursera, Udemy, edx and also get a cerificate of completion. Many of these are currently having free classes due to the current pandemic.
