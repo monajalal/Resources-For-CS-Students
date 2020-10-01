@@ -7,6 +7,7 @@ A list of resources such as scholarships, fellowships, and mailing list for help
 3. Get access to Unity3D Pro via Student E-mail https://store.unity.com/academic/unity-student 
 4. Many of the US universities have subscriptions to CreateCloud from which you can download the pro version of Adobe Acrobat DC, Photoshop CC, Adobe Premier Pro, etc.
 5. Many universities in the US have provided free student license to AutoCad, Maya, MATLAB, etc. for this you should check what's your university policy.
+6. Microsoft Office 365 Education - https://www.microsoft.com/en-us/education/products/office
 
 
 ## Internship/Interviews/Job Hunting
